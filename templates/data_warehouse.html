@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>智能瞭望数据分析处理系统 - 数据仓库</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <!-- 导航栏 -->
+    <nav class="navbar">
+        <div class="container">
+            <a class="navbar-brand" href="{{ url_for('index') }}">智能瞭望</a>
+            <ul class="navbar-nav">
+                <li><a href="{{ url_for('index') }}">搜索</a></li>
+                <li><a href="{{ url_for('data_warehouse') }}">数据仓库</a></li>
+                <li><a href="{{ url_for('logout') }}">退出登录</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- 主内容区 -->
+    <div class="container">
+        <!-- 消息提示 -->
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                <div class="flash-messages">
+                    {% for category, message in messages %}
+                        <div class="flash-message {{ category }}">{{ message }}</div>
+                    {% endfor %}
+                </div>
+            {% endif %}
+        {% endwith %}
+
+        <!-- 数据仓库搜索和过滤 -->
+        <div class="card">
+            <div class="card-header">
+                <h2>数据仓库</h2>
+            </div>
+            <form id="warehouse_search_form" action="{{ url_for('data_warehouse') }}" method="GET" class="data-warehouse-filter">
+                <input type="text" name="keywords" placeholder="按关键词搜索" value="{{ keywords }}">
+                <input type="date" name="date" placeholder="按日期搜索" value="{{ date }}">
+                <button type="submit" class="btn">搜索</button>
+            </form>
+        </div>
+
+        <!-- 数据列表 -->
+        {% if data %}
+            <div class="card">
+                <div class="card-header">
+                    <h2>数据列表 (共 {{ data|length }} 条)</h2>
+                </div>
+                
+                <!-- 选择和PDF生成按钮 -->
+                <form id="pdf_form" action="{{ url_for('generate_pdf') }}" method="POST">
+                    <div class="btn-group">
+                        <label class="checkbox-group">
+                            <input type="checkbox" id="select_all_warehouse">
+                            全选
+                        </label>
+                        <button type="button" class="btn btn-pdf" onclick="generatePDFReport()">生成PDF报告</button>
+                    </div>
+                    
+                    <!-- 结果列表 -->
+                    <ul class="data-list">
+                        {% for item in data %}
+                            <li class="data-item">
+                                <div class="checkbox-group">
+                                    <input type="checkbox" name="selected_data" value="{{ item.id }}">
+                                </div>
+                                <h3><a href="{{ item.url }}" target="_blank">{{ item.title }}</a></h3>
+                                <div class="data-meta">
+                                    <span>来源: {{ item.source }}</span>
+                                    <span>关键词: {{ item.keywords }}</span>
+                                    <span>保存时间: {{ item.crawled_at }}</span>
+                                    <span><a href="{{ item.url }}" target="_blank">{{ item.url }}</a></span>
+                                </div>
+                                {% if item.content %}
+                                    <div class="data-content">{{ item.content }}</div>
+                                {% endif %}
+                            </li>
+                        {% endfor %}
+                    </ul>
+                </form>
+            </div>
+        {% else %}
+            <div class="card">
+                <div class="card-header">
+                    <h2>数据列表</h2>
+                </div>
+                <p>暂无数据，请先进行搜索并保存数据。</p>
+            </div>
+        {% endif %}
+    </div>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
