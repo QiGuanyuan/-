@@ -1,0 +1,801 @@
+2025-12-05 17:24:44,486 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.11.76.84:5000
+2025-12-05 17:24:44,486 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-05 17:24:44,487 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:24:44,756 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:24:44,758 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:25:06,796 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-05 17:25:06,797 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-05 17:25:35,249 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.11.76.84:5000
+2025-12-05 17:25:35,249 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-05 17:25:35,250 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:25:35,696 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:25:35,698 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:26:13,814 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\app.py', reloading
+2025-12-05 17:26:13,875 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:26:13,980 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\app.py', reloading
+2025-12-05 17:26:14,024 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:26:14,329 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:26:14,329 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:26:14,332 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:26:14,346 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:26:14,349 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:26:14,446 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:26:14,447 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:26:14,447 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:26:14,461 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:26:14,463 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:26:20,718 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:26:20,718 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:26:20,720 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:26:20,739 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-05 17:26:20,741 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-05 17:26:20,742 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:26:21,163 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:26:21,164 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:26:21,164 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:26:21,178 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:26:21,181 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:27:33,383 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:27:33,384 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:27:33,384 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:27:33,400 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-05 17:27:33,400 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-05 17:27:33,403 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:27:33,647 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:27:33,647 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:27:33,648 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:27:33,656 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:27:33,658 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:27:54,516 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:27:54] "[32mGET /?ide_webview_request_time=1764926873024 HTTP/1.1[0m" 302 -
+2025-12-05 17:27:54,523 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:27:54] "GET /login HTTP/1.1" 200 -
+2025-12-05 17:27:54,557 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:27:54] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-12-05 17:27:54,591 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:27:54] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2025-12-05 17:28:03,435 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:28:03] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-12-05 17:28:03,452 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:28:03] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-12-05 17:28:03,457 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:28:03] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-12-05 17:28:03,521 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:28:03] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=LDjiD6XjLQvhCdShXCRT HTTP/1.1" 200 -
+2025-12-05 17:28:03,527 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:28:03] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2025-12-05 17:28:11,674 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:28:11] "GET /login HTTP/1.1" 200 -
+2025-12-05 17:28:11,691 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:28:11] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2025-12-05 17:28:20,599 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:28:20] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-12-05 17:28:20,605 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:28:20] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-12-05 17:28:20,606 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:28:20] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-12-05 17:28:20,611 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:28:20] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png&s=LDjiD6XjLQvhCdShXCRT HTTP/1.1[0m" 304 -
+2025-12-05 17:28:20,617 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:28:20] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2025-12-05 17:31:33,595 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:31:33] "[32mGET /?ide_webview_request_time=1764927093593 HTTP/1.1[0m" 302 -
+2025-12-05 17:31:33,598 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:31:33] "GET /login HTTP/1.1" 200 -
+2025-12-05 17:31:33,607 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:31:33] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-12-05 17:31:33,614 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:31:33] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2025-12-05 17:31:42,256 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:31:42] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-12-05 17:31:42,265 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:31:42] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-12-05 17:31:42,265 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:31:42] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-12-05 17:31:42,270 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:31:42] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png&s=LDjiD6XjLQvhCdShXCRT HTTP/1.1[0m" 304 -
+2025-12-05 17:31:42,278 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:31:42] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2025-12-05 17:32:30,800 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:32:30] "[32mGET /?ide_webview_request_time=1764927150798 HTTP/1.1[0m" 302 -
+2025-12-05 17:32:30,804 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:32:30] "GET /login HTTP/1.1" 200 -
+2025-12-05 17:32:30,809 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:32:30] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-12-05 17:32:30,817 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:32:30] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2025-12-05 17:32:40,822 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:32:40] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-12-05 17:32:40,828 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:32:40] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-12-05 17:32:40,828 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:32:40] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-12-05 17:32:40,833 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:32:40] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png&s=LDjiD6XjLQvhCdShXCRT HTTP/1.1[0m" 304 -
+2025-12-05 17:32:40,840 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:32:40] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2025-12-05 17:32:52,092 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:32:52] "[32mGET /?ide_webview_request_time=1764927172089 HTTP/1.1[0m" 302 -
+2025-12-05 17:32:52,095 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:32:52] "GET /login HTTP/1.1" 200 -
+2025-12-05 17:32:52,100 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:32:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-05 17:32:52,109 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:32:52] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2025-12-05 17:35:06,698 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:35:06,698 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:35:06,699 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:35:06,714 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-05 17:35:06,714 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-05 17:35:06,715 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:35:06,963 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:35:06,964 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:35:06,964 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:35:06,972 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:35:06,973 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:35:26,406 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:35:26] "[32mGET /?ide_webview_request_time=1764927326403 HTTP/1.1[0m" 302 -
+2025-12-05 17:35:26,409 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:35:26] "GET /login HTTP/1.1" 200 -
+2025-12-05 17:35:26,412 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:35:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-05 17:35:26,422 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:35:26] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2025-12-05 17:35:35,486 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:35:35] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-12-05 17:35:35,492 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:35:35] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-12-05 17:35:35,495 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:35:35] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-12-05 17:35:35,499 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:35:35] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=LDjiD6XjLQvhCdShXCRT HTTP/1.1" 200 -
+2025-12-05 17:35:35,511 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:35:35] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2025-12-05 17:36:21,981 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:36:21,982 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:36:21,982 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:36:21,995 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-05 17:36:21,995 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-05 17:36:21,996 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:36:22,255 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:36:22,256 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:36:22,256 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:36:22,267 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:36:22,269 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:36:47,492 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:36:47] "[32mHEAD / HTTP/1.1[0m" 302 -
+2025-12-05 17:36:47,496 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:36:47] "HEAD /login HTTP/1.1" 200 -
+2025-12-05 17:37:42,848 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:37:42,849 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:37:42,849 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:37:42,863 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-05 17:37:42,864 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-05 17:37:42,864 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:37:43,121 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:37:43,121 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:37:43,122 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:37:43,130 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:37:43,131 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:37:49,804 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:37:49] "HEAD /login HTTP/1.1" 200 -
+2025-12-05 17:37:56,218 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:37:56] "[32mHEAD / HTTP/1.1[0m" 302 -
+2025-12-05 17:37:56,219 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:37:56] "HEAD /login HTTP/1.1" 200 -
+2025-12-05 17:38:13,825 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:38:13] "GET /login HTTP/1.1" 200 -
+2025-12-05 17:38:13,831 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:38:13] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-12-05 17:38:13,839 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:38:13] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2025-12-05 17:38:14,664 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:38:14] "GET /login HTTP/1.1" 200 -
+2025-12-05 17:38:14,669 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:38:14] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-12-05 17:38:14,680 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:38:14] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2025-12-05 17:38:16,044 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:38:16] "GET /login HTTP/1.1" 200 -
+2025-12-05 17:38:16,085 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:38:16] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-12-05 17:38:16,134 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:38:16] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2025-12-05 17:38:16,749 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:38:16] "GET /login HTTP/1.1" 200 -
+2025-12-05 17:38:16,754 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:38:16] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-12-05 17:38:16,766 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:38:16] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2025-12-05 17:38:25,963 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:38:25] "[32mGET / HTTP/1.1[0m" 302 -
+2025-12-05 17:38:25,970 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:38:25] "GET /login HTTP/1.1" 200 -
+2025-12-05 17:38:25,981 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:38:25] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-12-05 17:38:26,022 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:38:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-12-05 17:38:37,132 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:38:37] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-12-05 17:38:37,143 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:38:37] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-12-05 17:38:37,144 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:38:37] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-12-05 17:38:37,166 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:38:37] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=LDjiD6XjLQvhCdShXCRT HTTP/1.1" 200 -
+2025-12-05 17:38:37,180 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:38:37] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-12-05 17:39:27,781 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:39:27,781 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:39:27,781 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:39:27,794 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-05 17:39:27,794 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-05 17:39:27,795 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:39:28,040 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:39:28,041 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:39:28,042 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:39:28,049 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:39:28,050 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:40:33,385 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:40:33] "GET /login HTTP/1.1" 200 -
+2025-12-05 17:40:33,390 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:40:33] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-12-05 17:40:59,212 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\check_routes.py', reloading
+2025-12-05 17:41:20,867 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\app.py', reloading
+2025-12-05 17:41:20,906 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:41:20,928 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\app.py', reloading
+2025-12-05 17:41:21,251 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:41:21,251 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:41:21,251 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:41:21,260 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:41:21,261 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:41:21,272 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\app.py', reloading
+2025-12-05 17:41:21,299 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:41:21,554 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:41:21,555 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:41:21,555 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:41:21,564 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:41:21,565 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:41:21,578 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\app.py', reloading
+2025-12-05 17:41:21,611 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:41:21,712 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\app.py', reloading
+2025-12-05 17:41:21,943 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:41:21,943 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:41:21,944 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:41:21,953 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:41:21,955 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:41:25,782 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:41:25,783 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:41:25,783 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:41:25,795 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-05 17:41:25,795 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-05 17:41:25,796 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:41:26,031 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:41:26,032 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:41:26,032 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:41:26,041 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:41:26,042 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:41:39,132 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:41:39] "GET /login HTTP/1.1" 200 -
+2025-12-05 17:41:39,138 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:41:39] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-12-05 17:41:39,145 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:41:39] "GET / HTTP/1.1" 200 -
+2025-12-05 17:42:06,264 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:42:06] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-12-05 17:42:06,271 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:42:06] "GET / HTTP/1.1" 200 -
+2025-12-05 17:42:06,332 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:42:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-05 17:42:06,332 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:42:06] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-12-05 17:42:11,319 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:42:11] "GET / HTTP/1.1" 200 -
+2025-12-05 17:42:11,326 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:42:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-05 17:42:11,326 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:42:11] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-12-05 17:42:20,838 - root - INFO - °Ù¶ÈÅÀ³æ»á»°³õÊ¼»¯³É¹¦
+2025-12-05 17:42:20,839 - root - INFO - ÕýÔÚÅÀÈ¡°Ù¶ÈËÑË÷µÚ 1 Ò³: https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD&pn=0
+2025-12-05 17:42:21,811 - root - INFO - µÚ 1 Ò³ÅÀÈ¡Íê³É£¬»ñÈ¡ 8 ÌõÓÐÐ§½á¹û
+2025-12-05 17:42:21,811 - root - INFO - °Ù¶ÈËÑË÷Íê³É£¬¹²»ñÈ¡ 8 ÌõÓÐÐ§½á¹û
+2025-12-05 17:42:21,814 - root - ERROR - ÅÀ³æËÑË÷Ê§°Ü: 'enumerate' is undefined
+2025-12-05 17:42:21,853 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:42:21] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-12-05 17:42:21,858 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:42:21] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-12-05 17:42:21,859 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:42:21] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-12-05 17:42:21,869 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:42:21] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=i6TcaLEetHpIP2XCtESY HTTP/1.1" 200 -
+2025-12-05 17:42:21,887 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:42:21] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-12-05 17:42:27,121 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:42:27] "GET /login HTTP/1.1" 200 -
+2025-12-05 17:42:32,622 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:42:32] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-12-05 17:42:32,626 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:42:32] "GET / HTTP/1.1" 200 -
+2025-12-05 17:42:32,639 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:42:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-05 17:42:32,639 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:42:32] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-12-05 17:42:42,167 - root - INFO - °Ù¶ÈÅÀ³æ»á»°³õÊ¼»¯³É¹¦
+2025-12-05 17:42:42,168 - root - INFO - ÕýÔÚÅÀÈ¡°Ù¶ÈËÑË÷µÚ 1 Ò³: https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD&pn=0
+2025-12-05 17:42:43,251 - root - INFO - µÚ 1 Ò³ÅÀÈ¡Íê³É£¬»ñÈ¡ 8 ÌõÓÐÐ§½á¹û
+2025-12-05 17:42:43,251 - root - INFO - °Ù¶ÈËÑË÷Íê³É£¬¹²»ñÈ¡ 8 ÌõÓÐÐ§½á¹û
+2025-12-05 17:42:43,253 - root - ERROR - ÅÀ³æËÑË÷Ê§°Ü: 'enumerate' is undefined
+2025-12-05 17:42:43,259 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:42:43] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-12-05 17:42:43,264 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:42:43] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-12-05 17:42:43,265 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:42:43] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-12-05 17:42:43,275 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:42:43] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=i6TcaLEetHpIP2XCtESY HTTP/1.1[0m" 304 -
+2025-12-05 17:43:59,409 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\check_logs.py', reloading
+2025-12-05 17:43:59,437 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:43:59,758 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:43:59,759 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:43:59,759 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:43:59,771 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:43:59,774 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:44:13,754 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:44:13,754 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:44:13,754 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:44:13,768 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-05 17:44:13,768 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-05 17:44:13,769 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:44:14,019 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:44:14,019 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:44:14,019 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:44:14,029 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:44:14,030 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:44:32,577 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:44:32] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-12-05 17:44:32,585 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:44:32] "GET / HTTP/1.1" 200 -
+2025-12-05 17:44:34,280 - root - INFO - °Ù¶ÈÅÀ³æ»á»°³õÊ¼»¯³É¹¦
+2025-12-05 17:44:34,280 - root - INFO - ÕýÔÚÅÀÈ¡°Ù¶ÈËÑË÷µÚ 1 Ò³: https://www.baidu.com/s?wd=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&pn=0
+2025-12-05 17:44:35,509 - root - INFO - µÚ 1 Ò³ÅÀÈ¡Íê³É£¬»ñÈ¡ 8 ÌõÓÐÐ§½á¹û
+2025-12-05 17:44:35,509 - root - INFO - °Ù¶ÈËÑË÷Íê³É£¬¹²»ñÈ¡ 8 ÌõÓÐÐ§½á¹û
+2025-12-05 17:44:35,511 - root - ERROR - ÅÀ³æËÑË÷Ê§°Ü: 'enumerate' is undefined
+2025-12-05 17:44:35,516 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:44:35] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-12-05 17:44:46,617 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:44:46,619 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:44:46,619 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:44:46,634 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-05 17:44:46,634 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-05 17:44:46,635 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:44:46,886 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:44:46,886 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:44:46,886 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:44:46,895 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:44:46,896 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:44:53,381 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:44:53] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-12-05 17:44:53,387 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:44:53] "GET / HTTP/1.1" 200 -
+2025-12-05 17:44:54,844 - root - INFO - °Ù¶ÈÅÀ³æ»á»°³õÊ¼»¯³É¹¦
+2025-12-05 17:44:54,844 - root - INFO - ÕýÔÚÅÀÈ¡°Ù¶ÈËÑË÷µÚ 1 Ò³: https://www.baidu.com/s?wd=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&pn=0
+2025-12-05 17:44:55,852 - root - INFO - µÚ 1 Ò³ÅÀÈ¡Íê³É£¬»ñÈ¡ 8 ÌõÓÐÐ§½á¹û
+2025-12-05 17:44:55,852 - root - INFO - °Ù¶ÈËÑË÷Íê³É£¬¹²»ñÈ¡ 8 ÌõÓÐÐ§½á¹û
+2025-12-05 17:44:55,853 - root - ERROR - ÅÀ³æËÑË÷Ê§°Ü: 'enumerate' is undefined
+2025-12-05 17:44:55,857 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:44:55] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-12-05 17:45:29,958 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\app.py', reloading
+2025-12-05 17:45:29,980 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\app.py', reloading
+2025-12-05 17:45:29,999 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:45:30,017 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:45:30,172 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\app.py', reloading
+2025-12-05 17:45:30,212 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:45:30,315 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:45:30,315 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:45:30,315 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:45:30,325 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:45:30,328 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:45:30,328 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:45:30,328 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:45:30,329 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:45:30,338 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:45:30,339 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:45:30,479 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:45:30,481 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:45:30,481 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:45:30,489 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:45:30,491 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:45:37,127 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:45:37,127 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:45:37,128 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:45:37,141 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-05 17:45:37,142 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-05 17:45:37,142 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:45:37,395 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:45:37,396 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:45:37,396 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:45:37,404 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:45:37,406 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:45:44,414 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:45:44] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-12-05 17:45:44,421 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:45:44] "GET / HTTP/1.1" 200 -
+2025-12-05 17:45:46,198 - root - INFO - °Ù¶ÈÅÀ³æ»á»°³õÊ¼»¯³É¹¦
+2025-12-05 17:45:46,200 - root - INFO - ÕýÔÚÅÀÈ¡°Ù¶ÈËÑË÷µÚ 1 Ò³: https://www.baidu.com/s?wd=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&pn=0
+2025-12-05 17:45:47,236 - root - INFO - µÚ 1 Ò³ÅÀÈ¡Íê³É£¬»ñÈ¡ 8 ÌõÓÐÐ§½á¹û
+2025-12-05 17:45:47,236 - root - INFO - °Ù¶ÈËÑË÷Íê³É£¬¹²»ñÈ¡ 8 ÌõÓÐÐ§½á¹û
+2025-12-05 17:45:47,238 - root - ERROR - ÅÀ³æËÑË÷Ê§°Ü: 'enumerate' is undefined
+2025-12-05 17:45:47,239 - root - ERROR - ´íÎó¶ÑÕ»: Traceback (most recent call last):
+  File "D:\smart_watchtower_system\app.py", line 150, in index
+    return render_template('index.html', results=results, keywords=keywords)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\qigua\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\templating.py", line 150, in render_template
+    return _render(app, template, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\qigua\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\templating.py", line 131, in _render
+    rv = template.render(context)
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\qigua\AppData\Local\Programs\Python\Python311\Lib\site-packages\jinja2\environment.py", line 1295, in render
+    self.environment.handle_exception()
+  File "C:\Users\qigua\AppData\Local\Programs\Python\Python311\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "D:\smart_watchtower_system\templates\index.html", line 66, in top-level template code
+    {% for idx, result in enumerate(results) %}
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\qigua\AppData\Local\Programs\Python\Python311\Lib\site-packages\jinja2\utils.py", line 92, in from_obj
+    if hasattr(obj, "jinja_pass_arg"):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+jinja2.exceptions.UndefinedError: 'enumerate' is undefined
+
+2025-12-05 17:45:47,244 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:45:47] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-12-05 17:46:26,202 - root - INFO - °Ù¶ÈÅÀ³æ»á»°³õÊ¼»¯³É¹¦
+2025-12-05 17:46:26,202 - root - INFO - ÕýÔÚÅÀÈ¡°Ù¶ÈËÑË÷µÚ 1 Ò³: https://www.baidu.com/s?wd=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&pn=0
+2025-12-05 17:46:27,254 - root - INFO - µÚ 1 Ò³ÅÀÈ¡Íê³É£¬»ñÈ¡ 8 ÌõÓÐÐ§½á¹û
+2025-12-05 17:46:27,254 - root - INFO - °Ù¶ÈËÑË÷Íê³É£¬¹²»ñÈ¡ 8 ÌõÓÐÐ§½á¹û
+2025-12-05 17:46:27,255 - root - INFO - °Ù¶ÈÅÀ³æ»á»°ÒÑ¹Ø±Õ
+2025-12-05 17:46:54,491 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\app.py', reloading
+2025-12-05 17:46:54,503 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\app.py', reloading
+2025-12-05 17:46:54,560 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:46:54,561 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:46:54,566 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\app.py', reloading
+2025-12-05 17:46:54,607 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:46:54,664 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\app.py', reloading
+2025-12-05 17:46:54,699 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:46:54,889 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:46:54,890 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:46:54,890 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:46:54,896 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:46:54,896 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:46:54,896 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:46:54,900 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:46:54,901 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:46:54,905 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:46:54,907 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:46:54,909 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:46:54,909 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:46:54,911 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:46:54,920 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:46:54,921 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:46:54,997 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:46:54,997 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:46:54,997 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:46:55,008 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:46:55,009 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:47:00,567 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:47:00,568 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:47:00,568 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:47:00,581 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-05 17:47:00,581 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-05 17:47:00,582 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:47:00,847 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:47:00,847 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:47:00,848 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:47:00,856 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:47:00,858 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:47:08,395 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:47:08] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-12-05 17:47:08,402 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:47:08] "GET / HTTP/1.1" 200 -
+2025-12-05 17:47:10,482 - root - INFO - °Ù¶ÈÅÀ³æ»á»°³õÊ¼»¯³É¹¦
+2025-12-05 17:47:10,482 - root - INFO - ÕýÔÚÅÀÈ¡°Ù¶ÈËÑË÷µÚ 1 Ò³: https://www.baidu.com/s?wd=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&pn=0
+2025-12-05 17:47:11,934 - root - INFO - µÚ 1 Ò³ÅÀÈ¡Íê³É£¬»ñÈ¡ 8 ÌõÓÐÐ§½á¹û
+2025-12-05 17:47:11,934 - root - INFO - °Ù¶ÈËÑË÷Íê³É£¬¹²»ñÈ¡ 8 ÌõÓÐÐ§½á¹û
+2025-12-05 17:47:11,936 - root - INFO - °Ù¶ÈÅÀ³æ»á»°ÒÑ¹Ø±Õ
+2025-12-05 17:47:11,937 - root - ERROR - ÅÀ³æËÑË÷Ê§°Ü: 'enumerate' is undefined
+2025-12-05 17:47:11,938 - root - ERROR - ´íÎó¶ÑÕ»: Traceback (most recent call last):
+  File "D:\smart_watchtower_system\app.py", line 157, in index
+    return render_template('index.html', results=results, keywords=keywords)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\qigua\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\templating.py", line 150, in render_template
+    return _render(app, template, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\qigua\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\templating.py", line 131, in _render
+    rv = template.render(context)
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\qigua\AppData\Local\Programs\Python\Python311\Lib\site-packages\jinja2\environment.py", line 1295, in render
+    self.environment.handle_exception()
+  File "C:\Users\qigua\AppData\Local\Programs\Python\Python311\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "D:\smart_watchtower_system\templates\index.html", line 66, in top-level template code
+    {% for idx, result in enumerate(results) %}
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\qigua\AppData\Local\Programs\Python\Python311\Lib\site-packages\jinja2\utils.py", line 92, in from_obj
+    if hasattr(obj, "jinja_pass_arg"):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+jinja2.exceptions.UndefinedError: 'enumerate' is undefined
+
+2025-12-05 17:47:11,942 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:47:11] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-12-05 17:47:32,925 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\app.py', reloading
+2025-12-05 17:47:32,948 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:47:32,986 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\app.py', reloading
+2025-12-05 17:47:32,997 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\app.py', reloading
+2025-12-05 17:47:33,013 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:47:33,025 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:47:33,089 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\app.py', reloading
+2025-12-05 17:47:33,124 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:47:33,261 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:47:33,262 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:47:33,262 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:47:33,272 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:47:33,273 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:47:33,294 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:47:33,295 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:47:33,295 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:47:33,305 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:47:33,306 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:47:33,308 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:47:33,309 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:47:33,309 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:47:33,318 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:47:33,319 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:47:33,408 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:47:33,408 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:47:33,409 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:47:33,417 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:47:33,418 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:47:39,169 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:47:39,169 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:47:39,169 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:47:39,184 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-05 17:47:39,184 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-05 17:47:39,186 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:47:39,429 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:47:39,430 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:47:39,430 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:47:39,437 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:47:39,438 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:47:47,092 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:47:47] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-12-05 17:47:47,101 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:47:47] "GET / HTTP/1.1" 200 -
+2025-12-05 17:47:48,877 - root - INFO - °Ù¶ÈÅÀ³æ»á»°³õÊ¼»¯³É¹¦
+2025-12-05 17:47:48,878 - root - INFO - ÕýÔÚÅÀÈ¡°Ù¶ÈËÑË÷µÚ 1 Ò³: https://www.baidu.com/s?wd=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&pn=0
+2025-12-05 17:47:49,944 - root - INFO - µÚ 1 Ò³ÅÀÈ¡Íê³É£¬»ñÈ¡ 8 ÌõÓÐÐ§½á¹û
+2025-12-05 17:47:49,944 - root - INFO - °Ù¶ÈËÑË÷Íê³É£¬¹²»ñÈ¡ 8 ÌõÓÐÐ§½á¹û
+2025-12-05 17:47:49,944 - root - INFO - °Ù¶ÈÅÀ³æ»á»°ÒÑ¹Ø±Õ
+2025-12-05 17:47:49,946 - root - ERROR - ÅÀ³æËÑË÷Ê§°Ü: 'enumerate' is undefined
+2025-12-05 17:47:49,947 - root - ERROR - ´íÎó¶ÑÕ»: Traceback (most recent call last):
+  File "D:\smart_watchtower_system\app.py", line 165, in index
+    return render_template('index.html', results=results, keywords=keywords)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\qigua\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\templating.py", line 150, in render_template
+    return _render(app, template, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\qigua\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\templating.py", line 131, in _render
+    rv = template.render(context)
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\qigua\AppData\Local\Programs\Python\Python311\Lib\site-packages\jinja2\environment.py", line 1295, in render
+    self.environment.handle_exception()
+  File "C:\Users\qigua\AppData\Local\Programs\Python\Python311\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "D:\smart_watchtower_system\templates\index.html", line 66, in top-level template code
+    {% for idx, result in enumerate(results) %}
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\qigua\AppData\Local\Programs\Python\Python311\Lib\site-packages\jinja2\utils.py", line 92, in from_obj
+    if hasattr(obj, "jinja_pass_arg"):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+jinja2.exceptions.UndefinedError: 'enumerate' is undefined
+
+2025-12-05 17:47:49,951 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:47:49] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-12-05 17:48:21,374 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\app.py', reloading
+2025-12-05 17:48:21,399 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:48:21,402 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\app.py', reloading
+2025-12-05 17:48:21,424 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\app.py', reloading
+2025-12-05 17:48:21,436 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:48:21,448 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:48:21,532 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\app.py', reloading
+2025-12-05 17:48:21,559 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:48:21,689 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:48:21,691 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:48:21,691 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:48:21,699 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:48:21,702 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:48:21,725 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:48:21,725 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:48:21,725 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:48:21,734 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:48:21,735 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:48:21,742 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:48:21,744 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:48:21,744 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:48:21,752 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:48:21,752 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:48:21,834 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:48:21,836 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:48:21,836 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:48:21,844 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:48:21,846 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:48:26,156 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:48:26,157 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:48:26,157 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:48:26,170 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-05 17:48:26,172 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-05 17:48:26,172 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:48:26,409 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:48:26,409 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:48:26,409 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:48:26,416 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:48:26,418 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:48:35,227 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:48:35] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-12-05 17:48:35,235 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:48:35] "GET / HTTP/1.1" 200 -
+2025-12-05 17:48:36,951 - root - INFO - °Ù¶ÈÅÀ³æ»á»°³õÊ¼»¯³É¹¦
+2025-12-05 17:48:36,951 - root - INFO - ÕýÔÚÅÀÈ¡°Ù¶ÈËÑË÷µÚ 1 Ò³: https://www.baidu.com/s?wd=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&pn=0
+2025-12-05 17:48:38,175 - root - INFO - µÚ 1 Ò³ÅÀÈ¡Íê³É£¬»ñÈ¡ 8 ÌõÓÐÐ§½á¹û
+2025-12-05 17:48:38,175 - root - INFO - °Ù¶ÈËÑË÷Íê³É£¬¹²»ñÈ¡ 8 ÌõÓÐÐ§½á¹û
+2025-12-05 17:48:38,177 - root - INFO - °Ù¶ÈÅÀ³æ»á»°ÒÑ¹Ø±Õ
+2025-12-05 17:48:38,180 - root - ERROR - ÅÀ³æËÑË÷Ê§°Ü: 'enumerate' is undefined
+2025-12-05 17:48:38,180 - root - ERROR - ´íÎó¶ÑÕ»: Traceback (most recent call last):
+  File "D:\smart_watchtower_system\app.py", line 174, in index
+    return render_template('index.html', results=results, keywords=keywords)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\qigua\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\templating.py", line 150, in render_template
+    return _render(app, template, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\qigua\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\templating.py", line 131, in _render
+    rv = template.render(context)
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\qigua\AppData\Local\Programs\Python\Python311\Lib\site-packages\jinja2\environment.py", line 1295, in render
+    self.environment.handle_exception()
+  File "C:\Users\qigua\AppData\Local\Programs\Python\Python311\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "D:\smart_watchtower_system\templates\index.html", line 66, in top-level template code
+    {% for idx, result in enumerate(results) %}
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\qigua\AppData\Local\Programs\Python\Python311\Lib\site-packages\jinja2\utils.py", line 92, in from_obj
+    if hasattr(obj, "jinja_pass_arg"):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+jinja2.exceptions.UndefinedError: 'enumerate' is undefined
+
+2025-12-05 17:48:38,184 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:48:38] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-12-05 17:49:04,748 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:49:04] "[32mGET / HTTP/1.1[0m" 302 -
+2025-12-05 17:49:06,782 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:49:06] "GET /login HTTP/1.1" 200 -
+2025-12-05 17:49:08,833 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:49:08] "POST /login HTTP/1.1" 200 -
+2025-12-05 17:49:10,868 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:49:10] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-12-05 17:49:12,924 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:49:12] "GET /login HTTP/1.1" 200 -
+2025-12-05 17:49:37,558 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\simple_test.py', reloading
+2025-12-05 17:49:37,582 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:49:37,849 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:49:37,851 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:49:37,851 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:49:37,855 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\simple_test.py', reloading
+2025-12-05 17:49:37,863 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:49:37,865 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:49:37,883 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:49:37,893 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\simple_test.py', reloading
+2025-12-05 17:49:37,922 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:49:38,002 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\simple_test.py', reloading
+2025-12-05 17:49:38,029 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:49:38,184 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:49:38,185 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:49:38,185 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:49:38,198 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:49:38,200 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:49:38,223 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:49:38,224 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:49:38,224 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:49:38,233 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:49:38,235 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:49:38,327 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:49:38,328 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:49:38,328 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:49:38,336 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:49:38,338 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:49:43,852 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:49:43,852 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:49:43,853 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:49:43,865 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-05 17:49:43,865 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-05 17:49:43,866 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:49:44,119 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:49:44,119 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:49:44,119 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:49:44,127 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:49:44,128 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:49:54,576 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:49:54] "[32mGET / HTTP/1.1[0m" 302 -
+2025-12-05 17:49:56,619 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:49:56] "GET /login HTTP/1.1" 200 -
+2025-12-05 17:49:58,654 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:49:58] "POST /login HTTP/1.1" 200 -
+2025-12-05 17:50:00,702 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:50:00] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-12-05 17:50:02,744 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:50:02] "GET /login HTTP/1.1" 200 -
+2025-12-05 17:50:25,221 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\simple_test.py', reloading
+2025-12-05 17:50:25,244 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:50:25,303 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\simple_test.py', reloading
+2025-12-05 17:50:25,333 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:50:25,434 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\simple_test.py', reloading
+2025-12-05 17:50:25,459 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:50:25,552 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:50:25,552 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:50:25,553 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:50:25,561 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:50:25,563 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:50:25,634 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:50:25,634 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:50:25,635 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:50:25,647 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:50:25,649 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:50:25,767 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:50:25,768 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:50:25,768 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:50:25,777 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:50:25,779 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:50:25,973 - werkzeug - INFO -  * Detected change in 'D:\\smart_watchtower_system\\simple_test.py', reloading
+2025-12-05 17:50:25,998 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:50:26,279 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:50:26,280 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:50:26,280 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:50:26,289 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:50:26,291 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:50:33,719 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:50:33] "[32mGET / HTTP/1.1[0m" 302 -
+2025-12-05 17:50:35,764 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:50:35] "GET /login HTTP/1.1" 200 -
+2025-12-05 17:50:37,804 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:50:37] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-12-05 17:50:39,860 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:50:39] "GET / HTTP/1.1" 200 -
+2025-12-05 17:50:41,905 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:50:41] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-12-05 17:50:43,956 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:50:43] "GET /login HTTP/1.1" 200 -
+2025-12-05 17:52:12,078 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:52:12,079 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:52:12,079 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:52:12,092 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-05 17:52:12,092 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-05 17:52:12,094 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:52:12,337 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:52:12,337 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:52:12,337 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:52:12,345 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:52:12,346 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:52:20,719 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:52:20] "[32mGET / HTTP/1.1[0m" 302 -
+2025-12-05 17:52:22,766 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:52:22] "GET /login HTTP/1.1" 200 -
+2025-12-05 17:52:24,815 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:52:24] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-12-05 17:52:26,842 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:52:26] "GET / HTTP/1.1" 200 -
+2025-12-05 17:52:29,628 - root - INFO - °Ù¶ÈÅÀ³æ»á»°³õÊ¼»¯³É¹¦
+2025-12-05 17:52:29,629 - root - INFO - ÕýÔÚÅÀÈ¡°Ù¶ÈËÑË÷µÚ 1 Ò³: https://www.baidu.com/s?wd=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&pn=0
+2025-12-05 17:52:30,304 - root - INFO - µÚ 1 Ò³ÅÀÈ¡Íê³É£¬»ñÈ¡ 5 ÌõÓÐÐ§½á¹û
+2025-12-05 17:52:30,304 - root - INFO - °Ù¶ÈËÑË÷Íê³É£¬¹²»ñÈ¡ 5 ÌõÓÐÐ§½á¹û
+2025-12-05 17:52:30,306 - root - INFO - °Ù¶ÈÅÀ³æ»á»°ÒÑ¹Ø±Õ
+2025-12-05 17:52:30,309 - root - ERROR - ÅÀ³æËÑË÷Ê§°Ü: 'enumerate' is undefined
+2025-12-05 17:52:30,309 - root - ERROR - ´íÎó¶ÑÕ»: Traceback (most recent call last):
+  File "D:\smart_watchtower_system\app.py", line 174, in index
+    return render_template('index.html', results=results, keywords=keywords)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\qigua\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\templating.py", line 150, in render_template
+    return _render(app, template, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\qigua\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\templating.py", line 131, in _render
+    rv = template.render(context)
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\qigua\AppData\Local\Programs\Python\Python311\Lib\site-packages\jinja2\environment.py", line 1295, in render
+    self.environment.handle_exception()
+  File "C:\Users\qigua\AppData\Local\Programs\Python\Python311\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "D:\smart_watchtower_system\templates\index.html", line 66, in top-level template code
+    {% for idx, result in enumerate(results) %}
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\qigua\AppData\Local\Programs\Python\Python311\Lib\site-packages\jinja2\utils.py", line 92, in from_obj
+    if hasattr(obj, "jinja_pass_arg"):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+jinja2.exceptions.UndefinedError: 'enumerate' is undefined
+
+2025-12-05 17:52:30,314 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:52:30] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-12-05 17:53:25,529 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:53:25,531 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:53:25,531 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:53:25,549 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-05 17:53:25,551 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-05 17:53:25,552 - werkzeug - INFO -  * Restarting with stat
+2025-12-05 17:53:25,827 - root - INFO - Ó¦ÓÃÆô¶¯¿ªÊ¼
+2025-12-05 17:53:25,827 - root - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É
+2025-12-05 17:53:25,828 - root - INFO - Flask·þÎñÆ÷Æô¶¯ÖÐ
+2025-12-05 17:53:25,839 - werkzeug - WARNING -  * Debugger is active!
+2025-12-05 17:53:25,841 - werkzeug - INFO -  * Debugger PIN: 872-970-734
+2025-12-05 17:53:34,340 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:53:34] "[32mGET / HTTP/1.1[0m" 302 -
+2025-12-05 17:53:36,400 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:53:36] "GET /login HTTP/1.1" 200 -
+2025-12-05 17:53:38,421 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:53:38] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-12-05 17:53:40,459 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:53:40] "GET / HTTP/1.1" 200 -
+2025-12-05 17:53:44,247 - root - INFO - °Ù¶ÈÅÀ³æ»á»°³õÊ¼»¯³É¹¦
+2025-12-05 17:53:44,248 - root - INFO - ÕýÔÚÅÀÈ¡°Ù¶ÈËÑË÷µÚ 1 Ò³: https://www.baidu.com/s?wd=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&pn=0
+2025-12-05 17:53:45,414 - root - INFO - µÚ 1 Ò³ÅÀÈ¡Íê³É£¬»ñÈ¡ 8 ÌõÓÐÐ§½á¹û
+2025-12-05 17:53:45,415 - root - INFO - °Ù¶ÈËÑË÷Íê³É£¬¹²»ñÈ¡ 8 ÌõÓÐÐ§½á¹û
+2025-12-05 17:53:45,416 - root - INFO - °Ù¶ÈÅÀ³æ»á»°ÒÑ¹Ø±Õ
+2025-12-05 17:53:45,417 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:53:45] "POST / HTTP/1.1" 200 -
+2025-12-05 17:54:06,761 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:54:06] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-12-05 17:54:08,814 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:54:08] "GET / HTTP/1.1" 200 -
+2025-12-05 17:54:12,521 - root - INFO - °Ù¶ÈÅÀ³æ»á»°³õÊ¼»¯³É¹¦
+2025-12-05 17:54:12,522 - root - INFO - ÕýÔÚÅÀÈ¡°Ù¶ÈËÑË÷µÚ 1 Ò³: https://www.baidu.com/s?wd=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&pn=0
+2025-12-05 17:54:13,536 - root - INFO - µÚ 1 Ò³ÅÀÈ¡Íê³É£¬»ñÈ¡ 8 ÌõÓÐÐ§½á¹û
+2025-12-05 17:54:13,536 - root - INFO - °Ù¶ÈËÑË÷Íê³É£¬¹²»ñÈ¡ 8 ÌõÓÐÐ§½á¹û
+2025-12-05 17:54:13,539 - root - INFO - °Ù¶ÈÅÀ³æ»á»°ÒÑ¹Ø±Õ
+2025-12-05 17:54:13,540 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:54:13] "POST / HTTP/1.1" 200 -
+2025-12-05 17:54:41,225 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:54:41] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-12-05 17:54:41,227 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:54:41] "GET / HTTP/1.1" 200 -
+2025-12-05 17:54:42,926 - root - INFO - °Ù¶ÈÅÀ³æ»á»°³õÊ¼»¯³É¹¦
+2025-12-05 17:54:42,926 - root - INFO - ÕýÔÚÅÀÈ¡°Ù¶ÈËÑË÷µÚ 1 Ò³: https://www.baidu.com/s?wd=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&pn=0
+2025-12-05 17:54:43,903 - root - INFO - µÚ 1 Ò³ÅÀÈ¡Íê³É£¬»ñÈ¡ 8 ÌõÓÐÐ§½á¹û
+2025-12-05 17:54:43,904 - root - INFO - °Ù¶ÈËÑË÷Íê³É£¬¹²»ñÈ¡ 8 ÌõÓÐÐ§½á¹û
+2025-12-05 17:54:43,905 - root - INFO - °Ù¶ÈÅÀ³æ»á»°ÒÑ¹Ø±Õ
+2025-12-05 17:54:43,906 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:54:43] "POST / HTTP/1.1" 200 -
+2025-12-05 17:55:03,156 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:55:03] "[32mGET / HTTP/1.1[0m" 302 -
+2025-12-05 17:55:03,160 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:55:03] "GET /login HTTP/1.1" 200 -
+2025-12-05 17:55:03,209 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:55:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-05 17:55:08,702 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:55:08] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-12-05 17:55:08,705 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:55:08] "GET / HTTP/1.1" 200 -
+2025-12-05 17:55:08,714 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:55:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-05 17:55:08,715 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:55:08] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-12-05 17:55:13,545 - root - INFO - °Ù¶ÈÅÀ³æ»á»°³õÊ¼»¯³É¹¦
+2025-12-05 17:55:13,545 - root - INFO - ÕýÔÚÅÀÈ¡°Ù¶ÈËÑË÷µÚ 1 Ò³: https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD&pn=0
+2025-12-05 17:55:14,536 - root - INFO - µÚ 1 Ò³ÅÀÈ¡Íê³É£¬»ñÈ¡ 8 ÌõÓÐÐ§½á¹û
+2025-12-05 17:55:14,536 - root - INFO - °Ù¶ÈËÑË÷Íê³É£¬¹²»ñÈ¡ 8 ÌõÓÐÐ§½á¹û
+2025-12-05 17:55:14,538 - root - INFO - °Ù¶ÈÅÀ³æ»á»°ÒÑ¹Ø±Õ
+2025-12-05 17:55:14,539 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:55:14] "POST / HTTP/1.1" 200 -
+2025-12-05 17:55:14,549 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:55:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-05 17:55:14,551 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:55:14] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-12-05 17:55:23,058 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:55:23] "[33mGET /sf/vsearch?pd=video&wd=³É¶¼&tn=vsearch&lid=9f4e17600016d2c6&ie=utf-8&rsv_pq=9f4e17600016d2c6&rsv_spt=5&rsv_bp=1&f=8&atn=index HTTP/1.1[0m" 404 -
+2025-12-05 17:55:47,385 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:55:47] "[32mPOST /save_data HTTP/1.1[0m" 302 -
+2025-12-05 17:55:47,390 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:55:47] "GET / HTTP/1.1" 200 -
+2025-12-05 17:55:47,397 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:55:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-05 17:55:47,398 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:55:47] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-12-05 17:55:48,458 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:55:48] "GET /data_warehouse HTTP/1.1" 200 -
+2025-12-05 17:55:48,464 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:55:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-05 17:55:48,464 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:55:48] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-12-05 17:56:33,163 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:56:33] "GET /data_warehouse HTTP/1.1" 200 -
+2025-12-05 17:56:33,171 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:56:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-05 17:56:33,172 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:56:33] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-12-05 17:56:34,260 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:56:34] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-12-05 17:56:34,264 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:56:34] "GET /login HTTP/1.1" 200 -
+2025-12-05 17:56:34,273 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:56:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-05 17:56:51,036 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:56:51] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-12-05 17:56:51,041 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:56:51] "GET / HTTP/1.1" 200 -
+2025-12-05 17:56:51,049 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:56:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-05 17:56:51,050 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:56:51] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-12-05 17:57:01,562 - root - INFO - °Ù¶ÈÅÀ³æ»á»°³õÊ¼»¯³É¹¦
+2025-12-05 17:57:01,562 - root - INFO - ÕýÔÚÅÀÈ¡°Ù¶ÈËÑË÷µÚ 1 Ò³: https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD&pn=0
+2025-12-05 17:57:02,977 - root - INFO - µÚ 1 Ò³ÅÀÈ¡Íê³É£¬»ñÈ¡ 8 ÌõÓÐÐ§½á¹û
+2025-12-05 17:57:02,977 - root - INFO - °Ù¶ÈËÑË÷Íê³É£¬¹²»ñÈ¡ 8 ÌõÓÐÐ§½á¹û
+2025-12-05 17:57:02,979 - root - INFO - °Ù¶ÈÅÀ³æ»á»°ÒÑ¹Ø±Õ
+2025-12-05 17:57:02,980 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:57:02] "POST / HTTP/1.1" 200 -
+2025-12-05 17:57:02,988 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:57:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-05 17:57:02,990 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:57:02] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-12-05 17:57:31,630 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:57:31] "[32mPOST /save_data HTTP/1.1[0m" 302 -
+2025-12-05 17:57:31,635 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:57:31] "GET / HTTP/1.1" 200 -
+2025-12-05 17:57:31,644 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:57:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-05 17:57:31,645 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:57:31] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-12-05 17:57:33,458 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:57:33] "GET /data_warehouse HTTP/1.1" 200 -
+2025-12-05 17:57:33,464 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:57:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-05 17:57:33,465 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:57:33] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-12-05 17:57:45,092 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:57:45] "GET /data_warehouse?keywords=&date=2025-12-05 HTTP/1.1" 200 -
+2025-12-05 17:57:45,099 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:57:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-05 17:57:45,099 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:57:45] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-12-05 17:57:49,111 - root - ERROR - Éú³ÉPDF±¨¸æÊ§°Ü: 'now' is undefined
+2025-12-05 17:57:49,112 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:57:49] "[32mPOST /generate_pdf HTTP/1.1[0m" 302 -
+2025-12-05 17:57:49,116 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:57:49] "GET /data_warehouse HTTP/1.1" 200 -
+2025-12-05 17:57:49,125 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:57:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-05 17:57:49,125 - werkzeug - INFO - 127.0.0.1 - - [05/Dec/2025 17:57:49] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>智能瞭望数据分析处理系统 - 后台主页</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <!-- 导航栏 -->
+    <nav class="navbar">
+        <div class="container">
+            <a class="navbar-brand" href="{{ url_for('index') }}">智能瞭望</a>
+            <ul class="navbar-nav">
+                <li><a href="{{ url_for('index') }}">搜索</a></li>
+                <li><a href="{{ url_for('data_warehouse') }}">数据仓库</a></li>
+                <li><a href="{{ url_for('logout') }}">退出登录</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- 主内容区 -->
+    <div class="container">
+        <!-- 消息提示 -->
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                <div class="flash-messages">
+                    {% for category, message in messages %}
+                        <div class="flash-message {{ category }}">{{ message }}</div>
+                    {% endfor %}
+                </div>
+            {% endif %}
+        {% endwith %}
+
+        <!-- 搜索表单 -->
+        <div class="card">
+            <div class="card-header">
+                <h2>百度搜索</h2>
+            </div>
+            <form id="search_form" action="{{ url_for('index') }}" method="POST" class="search-form">
+                <input type="text" id="keywords" name="keywords" placeholder="请输入搜索关键词" value="{{ keywords }}" required>
+                <input type="number" id="pages" name="pages" placeholder="页数" min="1" max="10" value="1">
+                <button type="submit" class="btn">搜索</button>
+            </form>
+        </div>
+
+        <!-- 搜索结果 -->
+        {% if results %}
+            <div class="card">
+                <div class="card-header">
+                    <h2>搜索结果 (共 {{ results|length }} 条)</h2>
+                </div>
+                
+                <!-- 选择和保存按钮 -->
+                <form id="save_form" action="{{ url_for('save_data') }}" method="POST">
+                    <div class="btn-group">
+                        <label class="checkbox-group">
+                            <input type="checkbox" id="select_all">
+                            全选
+                        </label>
+                        <button type="button" class="btn" onclick="saveSelectedData()">批量保存到数据仓库</button>
+                    </div>
+                    
+                    <!-- 结果列表 -->
+                    <ul class="data-list">
+                        {% for result in results %}
+                            <li class="data-item">
+                                <div class="checkbox-group">
+                                    <input type="checkbox" name="selected_items" value="{{ loop.index0 }}">
+                                </div>
+                                <h3><a href="{{ result.url }}" target="_blank">{{ result.title }}</a></h3>
+                                <div class="data-meta">
+                                    <span>来源: {{ result.source }}</span>
+                                    <span><a href="{{ result.url }}" target="_blank">{{ result.url }}</a></span>
+                                </div>
+                                {% if result.content %}
+                                    <div class="data-content">{{ result.content }}</div>
+                                {% endif %}
+                            </li>
+                        {% endfor %}
+                    </ul>
+                </form>
+            </div>
+        {% endif %}
+    </div>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
